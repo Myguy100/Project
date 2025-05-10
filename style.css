@@ -142,6 +142,11 @@
     transform: translateY(-5px) scale(1.02);
   }
 
+    .education-articles h1{
+    color: #2633f1;
+    font-family: sans-serif;
+  }
+
   .education-articles h2{
     color: #2633f1;
     font-family: sans-serif;
@@ -150,6 +155,16 @@
   .education-articles h3 {
     color: #2633f1;
     margin-bottom: 0.5rem;
+    font-family: sans-serif;
+  }
+
+    .education-articles h4{
+    color: #2633f1;
+    font-family: sans-serif;
+  }
+
+    .education-articles h5{
+    color: #2633f1;
     font-family: sans-serif;
   }
   
